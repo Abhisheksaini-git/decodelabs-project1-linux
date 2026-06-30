@@ -1,0 +1,15 @@
+pwd
+ls
+ls -la
+mkdir project
+cd project
+touch file1.txt
+echo "Hello DecodeLabs" > file1.txt
+cat file1.txt
+cp file1.txt copy.txt
+mv copy.txt newfile.txt
+rm newfile.txt
+whoami
+uname -a
+df -h
+free -h
